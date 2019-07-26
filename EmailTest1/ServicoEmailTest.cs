@@ -6,9 +6,9 @@ namespace EmailTest1
     [TestClass]
     public class ServicoEmailTest
     {
-        private string emailRemetente = "seuemail";
+        private string emailRemetente = "carlos@mastersig.com.br";
         private string smtpRemetente = "smtp.gmail.com";
-        private string senhaRemetente = "suasenha";
+        private string senhaRemetente = "chcp9883";
         private int porta = 587;
         private bool habilitaSSL = true;
         private string assunto = "Assunto do email";
