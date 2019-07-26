@@ -12,4 +12,4 @@ aspectos necessários que devem ser aplicados adequadamente para um projeto que 
 
 # Testes
 O projeto está com testes de unidade. No entanto, há uma classe de testes (ServicoEmailTest) que possibilita um teste real de envio de e-mail, bastando 
-apenas configurar a conta de email do destinatário corretamente.
+apenas configurar a conta de email do remetente corretamente.
